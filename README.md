@@ -14,4 +14,4 @@ Usage: casperjs baidu.js --user=$user --pwd=$pwd  --subject=$subject  --data=$da
 
 
 
-=A script by caspajs (http://www.casperjs.org/)
+A script by caspajs (http://www.casperjs.org/)
